@@ -1,6 +1,6 @@
-# There is an inverse corrolation between security and convenience 
+# There is an inverse correlation between security and convenience 
 
-### the difference between information security and information system security.
+Know the difference between information security and information system security.
 
 | Information Security | Information **System** Security |
 | -------------------- | ------------------------------- |
