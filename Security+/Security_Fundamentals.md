@@ -17,3 +17,14 @@
 | --------------- | --------- | ------------ |
 | Ensures information is only accessible to those with authorization | Ensures data remains accurate and unaltered | Ensures data or information can be reached |
 | Ex. encrypted files only approved people can decrypt and read | Ex. ensuring data is not corrupted or altered when going across the wire | Ex. Ensuring a website is up and accessible to the public | 
+
+4. Non-repudiation
+    - guarantees an event that took place can be attributed 100% to a specific person and cannot be denied.
+    - Ex: a signed email can not be disputed who sent it
+
+** note 
+5. AAA of Security
+   | Authentication | Authorization | Accounting | 
+   | --------------| ---------------| ----------|
+   | The act of verifying a person | Defines what actions or resources a user can take | The act of tracking or logging user activities |
+   | Ex. presenting username and password | Ex. having permissions to create accounts but not delete accounts | browser logs |
