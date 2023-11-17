@@ -2,4 +2,5 @@
 
 ### the difference between information security and information system security.
 
-|Information Security|Information **System** Security|
+| Information Security | Information **System** Security |
+| -------------------- | ------------------------------- |
