@@ -16,3 +16,4 @@
 | Confidentiality | Integrity | Availability |
 | --------------- | --------- | ------------ |
 | Ensures information is only accessible to those with authorization | Ensures data remains accurate and unaltered | Ensures data or information can be reached |
+| Ex. encrypted files only approved people can decrypt and read | Ex. ensuring data is not corrupted or altered when going across the wire | Ex. Ensuring a website is up and accessible to the public | 
