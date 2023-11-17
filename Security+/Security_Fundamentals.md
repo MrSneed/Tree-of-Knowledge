@@ -12,3 +12,7 @@
       - **C**onfidentiality
       - **I**ntegrity
       - **A**vailability
+
+| Confidentiality | Integrity | Availability |
+| --------------- | --------- | ------------ |
+| Ensures information is only accessible to those with authorization | Ensures data remains accurate and unaltered | Ensures data or information can be reached |
